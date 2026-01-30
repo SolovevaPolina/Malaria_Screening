@@ -2,6 +2,7 @@
 data/
 datasets/
 NIH-NLM-ThinBloodSmearsPf/
+SegmentedData/
 *.zip
 *.tar.gz
 
